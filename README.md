@@ -1,13 +1,13 @@
-## BBEM
+##BBEM
 An Ensemble EM Algorithm for Bayesian Variable Selection
 
-# Maintainer
+###Maintainer
 Jin Wang <jinwang8@illinois.edu>
 
-# Description
+###Description
 A simple EM algorithm and a Bayesian Bootstrap EM algorithm for variable selection, using continuous spike and slab prior.
 
-# Example
+###Example
 ```{r} 
 #A widely used benchmark example
 nsize=60; sigma=1
