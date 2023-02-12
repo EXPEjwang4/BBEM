@@ -2,7 +2,7 @@
 An Ensemble EM Algorithm for Bayesian Variable Selection
 
 ### Maintainer
-Jin Wang <jinwang8@illinois.edu>
+Jin Wang <jinwangmls@gmail.com>
 
 ### Description
 A simple EM algorithm and a Bayesian Bootstrap EM algorithm for variable selection, using continuous spike and slab prior.
